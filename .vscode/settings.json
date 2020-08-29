@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/G/Desktop/project_env/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint-flask"
+    ]
+}

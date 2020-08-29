@@ -1,0 +1,32 @@
+h1{
+    font-family: 'Overpass', sans-serif;
+    padding-top: 30px;
+    padding-left: 20px;
+    color: whitesmoke;
+}
+
+
+.SearchBar{
+    padding-top: 50px;
+}
+
+body{
+    background-image:url('background.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.new_players{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 6px;
+    margin: -10px 0 0 0;
+}
+
+.new_players > * {
+    margin-top: 10px;
+}
